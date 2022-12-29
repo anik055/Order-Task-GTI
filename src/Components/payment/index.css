@@ -1,0 +1,44 @@
+.wrapper-1{
+  width:100%;
+  display: flex;
+  margin: 20px 0px;
+  justify-content: center;
+}
+.wrapper-2{
+  padding :30px;
+  text-align:center;
+  width: 400px;
+  height: 200px;
+  border: 1px solid rgb(213, 211, 211);
+  border-radius: 15px;
+
+}
+.failed{
+    box-shadow: 4px 8px 40px 8px rgba(246, 100, 100, 0.2);
+}
+.success{
+   box-shadow: 4px 8px 40px 8px rgba(88, 146, 255, 0.2);
+}
+h1{
+    font-family: 'Kaushan Script', cursive;
+  font-size:30px;
+  letter-spacing:3px;
+  color:#5892FF ;
+  margin:0;
+  margin-bottom:20px;
+}
+h2{
+    font-family: 'Kaushan Script', cursive;
+  font-size:30px;
+  letter-spacing:3px;
+  color:#f75f5f ;
+  margin:0;
+  margin-bottom:20px;
+}
+.wrapper-2 p{
+  margin:0;
+  font-size:1.3em;
+  color:#aaa;
+  font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing:1px;
+}
